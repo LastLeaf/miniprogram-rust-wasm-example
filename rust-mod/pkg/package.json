@@ -1,0 +1,15 @@
+{
+  "name": "rust-mod",
+  "collaborators": [
+    "LastLeaf <bqfu@163.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_mod_bg.wasm",
+    "rust_mod.js",
+    "rust_mod.d.ts"
+  ],
+  "module": "rust_mod.js",
+  "types": "rust_mod.d.ts",
+  "sideEffects": "false"
+}

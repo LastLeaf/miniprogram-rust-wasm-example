@@ -1,0 +1,2 @@
+<view class="intro">{{hello}}</view>
+<view class="intro">1 + 2 = {{sum}}</view>
